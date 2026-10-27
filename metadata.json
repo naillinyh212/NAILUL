@@ -1,0 +1,6 @@
+{
+  "name": "SI-AGen SKM - Agen AI Laporan Survei Kepuasan Masyarakat",
+  "description": "Aplikasi Agen AI Penyusun Draf Laporan Survei Kepuasan Masyarakat (SKM) Bab I–V dan Matriks Rencana Tindak Lanjut (RTL) otomatis sesuai standar Permenpan RB No. 14 Tahun 2017.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
